@@ -4,7 +4,7 @@
 
 <div>
   
-Driven, enthusiastic and empathetic full-stack developer. A fast learner with experience in Ruby and JavaScript, I’ve recently graduated from Makers Academy. After several years building a career around my love of cycling, I relished the fresh challenge of Makers and am excited to build a new life as a developer.
+Driven, enthusiastic and empathetic full-stack developer. A fast learner with experience in Ruby and JavaScript, I’ve recently graduated from Makers Academy. After several years of building a career around my love of cycling, I relished the fresh challenge of Makers and am excited to build a new life as a developer.
   
 </div>
 
@@ -46,7 +46,7 @@ Driven, enthusiastic and empathetic full-stack developer. A fast learner with ex
 
 #### Communication
 
-I believe communication is key to effective collaboration and to a healthy, respectful and fun workplace. I took pride in building a loyal and diverse community of customers during my time at Maison Du Velo, which meant engaging and building relationships with people who approached cycling from completely different perspectives, from complete beginners to dedicated enthusiasts. Being able to communicate the needs of our customers and our business priorities was also essential in maintaining good relations with a wide range of product distributors in order to simultaneously secure the best possible prices and maintain purchasing flexibility.
+I believe communication is key to both effective collaboration and a healthy, respectful, enjoyable workplace. I took pride in building a loyal and diverse community of customers during my time at Maison Du Velo, which meant engaging and building relationships with people who approached cycling from completely different perspectives, from complete beginners to dedicated enthusiasts. Being able to communicate the needs of our customers, and our business priorities, was also essential in maintaining good relations with a wide range of product distributors in order to simultaneously secure the best possible prices and maintain purchasing flexibility.
 
 
 #### Collaboration / Team Work
@@ -56,9 +56,9 @@ Since starting at Makers and in the projects I've been working on since I've bee
 
 #### Leadership
 
-Working with a small core team and a wider cast of part-time staff means that clear and open communication is vital. At Maison Du Velo we didn't necessarily have the number of people necessary to have specialised roles for things like event management, online sales and social media communications so I instituted and lead short daily task settings and weekly 'lessons leanrt' meetings. This helped us to priroitise, kept everyone accountable, made efficient use of our time and ensured that no customers or projects were neglected.
+Working with a small core team and a wider cast of part-time staff means that clear and open communication is vital. At Maison Du Velo we didn't necessarily have the number of people necessary to have specialised roles for things like event management, online sales and social media communications so I instituted and lead short daily task settings and weekly 'lessons learnt' meetings. This helped us to prioritise, kept everyone accountable, made efficient use of our time and ensured that no customers or projects were neglected.
 
-I found this experience transferred very well into the Agile processes we used during our project work at Makers. By the halfway mark of our final, two week project it had become clear to me that our team had lost our way and were not on track to deliver a product matching the brief we had set ourselves. I organised an d led an emergency meeting and planning session during which we talked honestly, without blame, about where we had gone wrong. We agreed to streamline our product and broke it down into small, achievable goals, arranged into two, two day sprints. We met our brief and delivered a product we were all proud of.
+I found this experience transferred very well into the Agile processes we used during our project work at Makers. By the halfway mark of our final, two-week project it had become clear to me that our team had lost our way and were not on track to deliver a product matching the brief we had set ourselves. I organised and led an emergency meeting and planning session during which we talked honestly, without blame, about where we had gone wrong. We agreed to streamline our product and broke it down into small, achievable goals, arranged into two, two-day sprints. We met our brief and delivered a product we were all proud of.
 
 
 ## Education
