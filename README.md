@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Tim!
 
 - 💻 I'm a full-stack developer
-- 📖 In 2020 I left the worlds of cycling and coffee to change my life with [Makers](https://makers.tech/about-us/)
+- 📖 In 2020 I left the world of cycling to change my life with [Makers](https://makers.tech/about-us/)
 - :telescope: I'm currently working on [Taped It](https://github.com/voice-notes) - an app for sending voice notes to your colleagues on [Slack](https://slack.com/intl/en-gb/) :sound:
 - :dancers: I'm looking to collarborate with any other developers on any interesting projects!
 - :seedling: I'm currently re-learning Spanish
