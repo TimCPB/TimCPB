@@ -33,3 +33,6 @@
 <a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/material-ui.svg" alt="Material UI" width="21px" height="21px"></a>
 <a href="https://www.heroku.com/" title="Heouku"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/heroku-icon.svg" alt="Heroku" width="21px" height="21px"></a>
 <a href="https://circleci.com/" title="CircleCI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/circleci.svg" alt="CircleCI" width="21px" height="21px"></a>
+<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimCPB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
