@@ -31,7 +31,7 @@
 <a href="https://www.cypress.io/" title="Cypress"><img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" alt="Cypress" width="21px" height="21px"></a>
 <a href="https://rspec.info/" title="RSpec"><img src="https://iconape.com/wp-content/png_logo_vector/rspec-logo.png" alt="RSpec" width="21px" height="21px"></a>
 <a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/material-ui.svg" alt="Material UI" width="21px" height="21px"></a>
-<a href="https://www.heroku.com/" title="Heouku"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/heroku-icon.svg" alt="Heroku" width="21px" height="21px"></a>
+<a href="https://www.heroku.com/" title="Heroku"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/heroku-icon.svg" alt="Heroku" width="21px" height="21px"></a>
 <a href="https://circleci.com/" title="CircleCI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/circleci.svg" alt="CircleCI" width="21px" height="21px"></a>
 <br />
 
