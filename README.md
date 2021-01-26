@@ -37,3 +37,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimCPB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimCPB&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact)
+
+<a href="https://github.com/TimCPB/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TimCPB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/TimCPB/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimCPB&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact" />
+</a>
