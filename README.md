@@ -25,7 +25,7 @@
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
-<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="https://banner2.cleanpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg" alt="SQL" width="21px" height="21px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="21px" height="21px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
 <a href="https://jasmine.github.io/" title="Jasmine"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1280px-Logo_jasmine.svg.png" alt="Jasmine" width="21px" height="21px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" alt="Cypress" width="21px" height="21px"></a>
