@@ -35,12 +35,9 @@
 <a href="https://circleci.com/" title="CircleCI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/circleci.svg" alt="CircleCI" width="21px" height="21px"></a>
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimCPB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimCPB&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact)
-
-<a href="https://github.com/TimCPB/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TimCPB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/TimCPB/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimCPB&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact" />
 </a>
