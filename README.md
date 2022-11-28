@@ -1,16 +1,11 @@
 ### 👋 Hi there, I'm Tim!
 
-- 💻 I'm a solutions engineer at [Tray.io](https://tray.io/)
+- 💻 I'm a software engineer at [Tray.io](https://tray.io/)
 - 📖 In 2020 I left the world of cycling to change my life with [Makers](https://makers.tech/about-us/)
-- :telescope: I'm currently working on [Taped It](https://github.com/voice-notes) - an app for sending voice notes to your colleagues on [Slack](https://slack.com/intl/en-gb/) :sound:
-- :dancers: I'm looking to collarborate with any other developers on any interesting projects!
-- :seedling: I'm currently re-learning Spanish
-- :speech_balloon: Ask me about the lists of books and films I've drawn up for lockdown 3.0
 
 ### Connect with me
 
-[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/chris-cooney-003028160/)
-[<img align="left" alt="Tim | Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg" />](mailto:timcpb@outlook.com)
+[<img align="left" alt="Tim | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/chris-cooney-003028160/)
 <br/>
 
 ### Some languages and tools I've used:
