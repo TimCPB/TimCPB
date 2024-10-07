@@ -1,7 +1,8 @@
 ### 👋 Hi there, I'm Tim!
 
-- 💻 I'm a software engineer at [Tray.io](https://tray.io/)
+- 💻 I'm a software engineer, most rcently at [Tray.io](https://tray.io/)
 - 📖 In 2020 I left the world of cycling to change my life with [Makers](https://makers.tech/about-us/)
+- :runner: Currently contributing to [Carrot.run](https://carrot.run/)
 
 ### Connect with me
 
